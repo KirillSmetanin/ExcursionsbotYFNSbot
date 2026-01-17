@@ -1,0 +1,9 @@
+2026-01-17 14:05:32,343 - database - INFO - База данных инициализирована
+2026-01-17 14:05:32,344 - __main__ - INFO - База данных инициализирована
+2026-01-17 14:05:32,942 - __main__ - INFO - Бот запускается...
+2026-01-17 14:05:33,124 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8525028706:AAH_sDh4mqSfDGvUSjXV6EwxVnyVw9aGkgU/getMe "HTTP/1.1 200 OK"
+2026-01-17 14:05:33,125 - telegram.ext.Application - INFO - Application started
+2026-01-17 14:05:33,179 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8525028706:AAH_sDh4mqSfDGvUSjXV6EwxVnyVw9aGkgU/deleteWebhook "HTTP/1.1 200 OK"
+2026-01-17 14:05:42,685 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2026-01-17 14:05:42,685 - telegram.ext.Application - INFO - Application.stop() complete
+2026-01-17 14:05:42,686 - __main__ - INFO - Бот остановлен
